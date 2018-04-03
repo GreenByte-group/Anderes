@@ -18,3 +18,12 @@
 
 ## JDBC - Template:
 ![Beispiel](jdbc.png)
+
+* anderes Beispiel: https://spring.io/guides/gs/relational-data-access/
+
+
+## Quellen:
+
+* https://www.youtube.com/watch?v=wOPnbPP9P3A
+* https://spring.io/guides/gs/relational-data-access/
+* https://spring.io/guides/gs/accessing-data-mysql/
