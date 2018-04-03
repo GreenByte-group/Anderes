@@ -8,3 +8,12 @@
 * Alle negativen Aspekte von z.B. JDBC etc sind berücksichtigt und "verbessert" worden.
 
 ![Vergleich](table.png)
+
+## Mehrere verschiedene Schablonen/Templates
+* Jdbc Template
+* Hibernate Template
+* Jpa Template
+* Jms Template
+* ...
+
+## JDBC - Template:
